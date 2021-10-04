@@ -15,5 +15,5 @@ class personas {
     
 }
 
-var myObject = personas(name: "Paul", lastName: "Flores", age: 30)
+var myObject = personas(name: "Rob", lastName: "Flores", age: 31)
 
